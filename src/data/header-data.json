@@ -1,0 +1,18 @@
+{
+    "navLinks": [
+      { "href": "/#home", "label": "Home" },
+      { "href": "/#about", "label": "About" },
+      { "href": "/#faqs", "label": "FAQs" }
+    ],
+    "images": [
+      
+      {
+        "src": "/image/Image3.jpg",
+        "alt": "Image 3",
+        "width": 120,
+        "height": 120,
+        "link": ""
+      }
+    ]
+  }
+  

@@ -1,0 +1,50 @@
+[
+    {
+        "title": "AI-Powered CCTV System",
+        "description": "An advanced surveillance solution leveraging AI/ML for real-time crowd management, crime prevention, and workplace monitoring by analyzing live and historical video feeds.",
+        "icon": "/image/pexel3.jpg",
+        "download": "/problem_statements/AI_Powered_CCTV.pdf"
+    },
+    {
+        "title": "Intelligent Threat Detection",
+        "description": "AI-driven system that identifies suspicious activities, overcrowding, and potential threats using real-time video analytics and predictive risk assessment.",
+        "icon": "/image/pexel4.jpg",
+        "download": "/problem_statements/Threat_Detection.pdf"
+    },
+    {
+        "title": "Real-Time Crowd Management",
+        "description": "AI-powered crowd analytics to monitor density, detect movement patterns, and prevent overcrowding in public spaces for enhanced safety.",
+        "icon": "/image/pexel6.jpg",
+        "download": "/problem_statements/Crowd_Management.pdf"
+    },
+    {
+        "title": "Automated Crime Prevention",
+        "description": "Machine learning models for detecting and preventing crimes by identifying unusual behavior, unauthorized access, and security threats in real-time.",
+        "icon": "/image/pexel7.jpg",
+        "download": "/problem_statements/Crime_Prevention.pdf"
+    },
+    {
+        "title": "Workplace Safety & Compliance",
+        "description": "AI-driven monitoring system ensuring employee safety, tracking compliance with safety protocols, and detecting workplace hazards automatically.",
+        "icon": "/image/pexel8.jpg",
+        "download": "/problem_statements/Workplace_Safety.pdf"
+    },
+    {
+        "title": "Predictive Risk Assessment",
+        "description": "AI-enabled system analyzing historical CCTV footage to identify risk patterns and predict potential security threats before they happen.",
+        "icon": "/image/pexel9.jpg",
+        "download": "/problem_statements/Risk_Assessment.pdf"
+    },
+    {
+        "title": "Traffic & Public Transport Monitoring",
+        "description": "AI-powered video analytics for monitoring traffic congestion, detecting violations, and ensuring smooth public transportation management.",
+        "icon": "/image/pexel10.jpg",
+        "download": "/problem_statements/Traffic_Monitoring.pdf"
+    },
+    {
+        "title": "Seamless CCTV Integration",
+        "description": "A cost-effective AI-based solution that enhances existing CCTV infrastructure by adding intelligent analytics and automated alerting capabilities.",
+        "icon": "/image/pexel4.jpg",
+        "download": "/problem_statements/CCTV_Integration.pdf"
+    }
+]

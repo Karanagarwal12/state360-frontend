@@ -1,0 +1,97 @@
+@import "tailwindcss/base";
+@import "./tailwind/base.css";
+
+@import "tailwindcss/components";
+@import "./tailwind/components.css";
+
+@import "tailwindcss/utilities";
+@import "./tailwind/utilities.css";
+
+@import "./base/reset.css";
+@import "./base/scrollbar.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+  overflow-x: hidden;
+  letter-spacing: 0.015em;
+  font-family: sans-serif;
+  scroll-behavior: smooth;
+}
+
+@layer utilities {
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .no-scrollbar {
+    -ms-overflow-style: none !important;
+    /* IE and Edge */
+    scrollbar-width: none !important;
+    /* Firefox */
+  }
+}
+
+@keyframes static_rotate {
+    0% {
+        transform: scale(1, 1);
+    }
+    50% {
+        transform: scale(-1, 1);
+    }
+}
+
+.trophy-rotate {
+    animation: static_rotate 2s linear infinite;
+}
+
+@keyframes slide {
+    0% {
+      transform: translateX(0);
+    }
+    25% {
+      transform: translateX(-100%);
+    }
+    50% {
+      transform: translateX(-200%);
+    }
+    75% {
+      transform: translateX(-300%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  .animate-slide {
+    animation: slide 20s infinite;
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-scroll {
+    animation: scroll 2s linear infinite;
+  }
+  
+
+.animate-parallax {
+  animation: parallax 10s linear infinite alternate;
+}
+
+.image-trapez-clip {
+    clip-path: polygon(20% 0%, 100% 0%, 100% 100%, 0% 100%);
+}

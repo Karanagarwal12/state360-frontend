@@ -1,0 +1,38 @@
+{
+  "metadataBase": "",
+  "title": "",
+  "description": "",
+  "keywords": "",
+  "authors": [
+      {
+          "name": "",
+          "url": ""
+      }
+  ],
+  "icons": "",
+  "openGraph": {
+      "type": "",
+      "url": "",
+      "title": "",
+      "description": "",
+      "siteName": "",
+      "images": [
+          {
+              "url": "",
+              "width": 0,
+              "height": 0,
+              "alt": ""
+          }
+      ],
+      "locale": ""
+  },
+  "twitter": {
+      "card": "",
+      "title": "",
+      "description": "",
+      "images": "",
+      "site": ""
+  },
+  "viewport": "",
+  "robots": ""
+}

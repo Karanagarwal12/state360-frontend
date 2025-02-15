@@ -1,0 +1,80 @@
+{
+    "products": [
+      {
+        "title": "Product 1",
+        "link": "/products/1",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 2",
+        "link": "/products/2",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 3",
+        "link": "/products/3",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 4",
+        "link": "/products/4",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 5",
+        "link": "/products/5",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 6",
+        "link": "/products/6",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 7",
+        "link": "/products/7",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 8",
+        "link": "/products/8",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 9",
+        "link": "/products/9",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 10",
+        "link": "/products/10",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 11",
+        "link": "/products/11",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 12",
+        "link": "/products/12",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 13",
+        "link": "/products/13",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 14",
+        "link": "/products/14",
+        "thumbnail": "/image/banner3.png"
+      },
+      {
+        "title": "Product 15",
+        "link": "/products/15",
+        "thumbnail": "/image/banner3.png"
+      }
+    ]
+  }
+  

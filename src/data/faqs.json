@@ -1,0 +1,38 @@
+[
+    {
+        "question": "Q1. Where will the AI-powered CCTV system be implemented?",
+        "answer": "The AI-powered CCTV system can be deployed in various locations, including public spaces, workplaces, and high-security areas for enhanced surveillance."
+    },
+    {
+        "question": "Q2. Can the AI-powered CCTV system be integrated with existing infrastructure?",
+        "answer": "Yes, the system seamlessly integrates with existing CCTV networks, reducing the need for additional hardware while enhancing surveillance capabilities."
+    },
+    {
+        "question": "Q3. How does AI improve traditional CCTV surveillance?",
+        "answer": "AI enables real-time threat detection, crowd monitoring, and anomaly recognition, significantly improving response times and reducing human error."
+    },
+    {
+        "question": "Q4. Is there any installation or maintenance cost?",
+        "answer": "Installation costs depend on the scale of deployment, but the system is designed to be cost-effective by utilizing existing CCTV infrastructure."
+    },
+    {
+        "question": "Q5. Does the AI-powered CCTV system comply with privacy regulations?",
+        "answer": "Yes, the system follows strict data protection laws and offers privacy-compliant features like face blurring and controlled access to footage."
+    },
+    {
+        "question": "Q6. What are the key features of the AI-powered CCTV system?",
+        "answer": "Features include real-time analytics, automatic threat detection, crowd density analysis, instant alerts, and predictive risk assessment."
+    },
+    {
+        "question": "Q7. What kind of support is available after deployment?",
+        "answer": "Technical support includes system updates, AI model enhancements, and assistance with troubleshooting to ensure continuous performance."
+    },
+    {
+        "question": "Q8. Can the AI-powered CCTV system operate in low-light conditions?",
+        "answer": "Yes, the system is equipped with advanced image processing and infrared capabilities to function effectively in low-light and nighttime conditions."
+    },
+    {
+        "question": "Q9. Can the AI system differentiate between normal and suspicious activities?",
+        "answer": "Yes, using machine learning models, the system distinguishes between routine behaviors and potential threats, reducing false alarms."
+    }
+]

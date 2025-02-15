@@ -1,0 +1,29 @@
+{
+    "contactInfo": {
+      "phones": ["+91 9369831243"],
+      "emails": ["lit2023002@iiitl.ac.in"]
+    },
+    "socialLinks": [
+      {
+        "name": "INSTAGRAM",
+        "url": "",
+        "icon": "faInstagram"
+      },
+      {
+        "name": "LINKEDIN",
+        "url": "",
+        "icon": "faLinkedin"
+      },
+      {
+        "name": "X",
+        "url": "",
+        "icon": "faXTwitter"
+      },
+      {
+        "name": "FACEBOOK",
+        "url": "",
+        "icon": "faFacebook"
+      }
+    ]
+  }
+  
